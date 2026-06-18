@@ -1,0 +1,14 @@
+[
+  {
+    "title": "AI Heart Risk Predictor",
+    "description": "AI-powered Heart Disease Prediction System using Random Forest Machine Learning, Streamlit Dashboard, User Authentication, PDF Report Generation, Prediction History, and Analytics Visualization.",
+    "technologies": "Python, Streamlit, Random Forest, Machine Learning, Pandas, NumPy",
+    "githubLink": "https://github.com/Thilagavathiselvam/AI-Heart-Risk-Predictor"
+  },
+  {
+    "title": "Hospital Management System",
+    "description": "Hospital Management System for managing patient records, appointments, doctors, billing, and analytics using REST APIs.",
+    "technologies": "Java, Spring Boot, MySQL, HTML, CSS, JavaScript, Bootstrap, Chart.js",
+    "githubLink": "https://github.com/Thilagavathiselvam/Hospital-Management-System"
+  }
+]
